@@ -1,1 +1,2 @@
 # Machine-Learning
+Using scikit-learn libraries to build and evaluate models we were tasked to evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
